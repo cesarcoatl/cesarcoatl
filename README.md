@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Now Playing** on Spotify
+
+<a href="https://now-playing-profile-nl19vhuat.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-nl19vhuat.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
+### My stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thecesrom&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/thecesrom/github-readme-stats)
+
+### My most used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecesrom&layout=compact)](https://github.com/thecesrom/github-readme-stats)
