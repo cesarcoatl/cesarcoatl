@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Now Playing** on Spotify
 
 <a href="https://now-playing-profile-nl19vhuat.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-nl19vhuat.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://now-playing-profile-nl19vhuat.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 ### My stats
