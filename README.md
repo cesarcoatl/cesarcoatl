@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### My stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thecesrom&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/thecesrom/github-readme-stats)
+[![thecesrom's github stats](https://github-readme-stats-git-master.thecesrom.vercel.app/api?username=thecesrom&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/thecesrom/github-readme-stats)
 
 ### My most used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecesrom&layout=compact)](https://github.com/thecesrom/github-readme-stats)
+[![thecesrom's top languages](https://github-readme-stats-git-master.thecesrom.vercel.app/api/top-langs/?username=thecesrom&layout=compact)](https://github.com/thecesrom/github-readme-stats)
