@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Now Playing on Spotify
+
+<a href="https://now-playing-profile.thecesrom.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile.thecesrom.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
 ### My stats
 
 ![thecesrom's github stats](https://github-readme-stats.thecesrom.vercel.app/api?username=thecesrom&count_private=true&show_icons=true&include_all_commits=true)
