@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Now Playing on Spotify
+### 🎧 Now Playing on Spotify
 
 <a href="https://now-playing-profile.thecesrom.vercel.app/now-playing?open">
     <img src="https://now-playing-profile.thecesrom.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
+
+### 👨🏽‍💻 Weekly Development breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -27,10 +29,10 @@ Markdown   49 mins         █████████████████�
 ```
 <!--END_SECTION:waka-->
 
-### My stats
+### 📊 My stats
 
 ![thecesrom's github stats](https://github-readme-stats.thecesrom.vercel.app/api?username=thecesrom&count_private=true&show_icons=true&include_all_commits=true)
 
-### My most used Languages
+### 📊 My most used Languages
 
 ![thecesrom's top languages](https://github-readme-stats.thecesrom.vercel.app/api/top-langs/?username=thecesrom&layout=compact)
