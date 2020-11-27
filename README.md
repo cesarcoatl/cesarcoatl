@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
+```text
+Markdown   49 mins         █████████████████████████   99.69 % 
+```
 <!--END_SECTION:waka-->
 
 ### My stats
