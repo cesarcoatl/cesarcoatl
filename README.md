@@ -21,6 +21,9 @@ Here are some ideas to get you started:
     <img src="https://now-playing-profile.thecesrom.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### My stats
 
 ![thecesrom's github stats](https://github-readme-stats.thecesrom.vercel.app/api?username=thecesrom&count_private=true&show_icons=true&include_all_commits=true)
