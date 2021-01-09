@@ -23,12 +23,7 @@ Here are some ideas to get you started:
 
 ### 👨🏽‍💻 Weekly Development breakdown
 
-<!--START_SECTION:waka-->
-```text
-Python       18 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.98 % 
-Bash         12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.44 % 
-```
-<!--END_SECTION:waka-->
+[![thecesrom's wakatime stats](https://github-readme-stats.thecesrom.vercel.app/api/wakatime?username=thecesrom)](https://github.com/thecesrom)
 
 ### 📊 My stats
 
