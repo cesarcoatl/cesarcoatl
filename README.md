@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 👨🏽‍💻 Weekly Development breakdown
 
-[![thecesrom's wakatime stats](https://github-readme-stats.thecesrom.vercel.app/api/wakatime?username=thecesrom)](https://github.com/thecesrom)
+[![thecesrom's wakatime stats](https://github-readme-stats.thecesrom.vercel.app/api/wakatime?username=thecesrom)](https://wakatime.com/@thecesrom)
 
 ### 📊 My stats
 
