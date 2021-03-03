@@ -11,12 +11,6 @@ Here are some ideas to get you started:
 - 📖 I blog at https://thecesrom.dev/ and https://coatl.dev/blog
 - 📫 How to reach me: cesar@thecesrom.dev
 - 😄 Pronouns: he/him/his
-<!-- 
-### 🎧 Now Playing on Spotify
-
-<a href="https://now-playing-profile.thecesrom.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile.thecesrom.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a> -->
 
 ### 👨🏽‍💻 Weekly Development breakdown
 
