@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🤓 I'm César Román
-- 🔭 I’m currently working on [homebrew-coatl-dev](https://github.com/coatl-dev/homebrew-coatl-dev/), [ignition-api](https://github.com/ignition-api), and [incendium](https://github.com/thecesrom/incendium)
+- 🔭 I’m currently working on [ignition-api](https://github.com/ignition-api), [incendium](https://github.com/thecesrom/incendium), [homebrew-coatl-dev](https://github.com/coatl-dev/homebrew-coatl-dev/), and [scoop-coatl-dev](https://github.com/coatl-dev/scoop-coatl-dev/).
 - 🌱 I’m continously learning Python
 - 📖 I blog at <https://thecesrom.dev/> and <https://coatl.dev/blog>
 - 📫 How to reach me: <cesar@thecesrom.dev>
