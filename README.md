@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![thecesrom's top languages](https://github-readme-stats-thecesrom.vercel.app/api/top-langs/?username=thecesrom&layout=compact&theme=github_dark)
 
-![hÿpe](https://hit.yhype.me/github/profile?user_id=19418023)
+![](https://hit.yhype.me/github/profile?user_id=19418023)
