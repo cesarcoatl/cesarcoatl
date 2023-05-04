@@ -15,16 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <cesar@thecesrom.dev>
 - 😄 Pronouns: he/him/his
 
-## 👨🏽‍💻 Weekly Development breakdown
-
-[![thecesrom's wakatime stats](https://github-readme-stats-thecesrom.vercel.app/api/wakatime?username=thecesrom&layout=compact&theme=github_dark)](https://wakatime.com/@thecesrom)
-
-## 📊 My stats
-
-![thecesrom's github stats](https://github-readme-stats-thecesrom.vercel.app/api?username=thecesrom&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
-
-## 📊 My most used Languages
-
-![thecesrom's top languages](https://github-readme-stats-thecesrom.vercel.app/api/top-langs/?username=thecesrom&layout=compact&theme=github_dark)
-
 ![](https://hit.yhype.me/github/profile?user_id=19418023)
