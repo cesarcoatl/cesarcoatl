@@ -13,8 +13,8 @@ Here are some ideas to get you started:
   - [coatl-dev/docker-six](https://github.com/coatl-dev/docker-six)
   - [coatl-dev/homebrew-coatl-dev](https://github.com/coatl-dev/homebrew-coatl-dev/)
   - [coatl-dev/scoop-coatl-dev](https://github.com/coatl-dev/scoop-coatl-dev/)
-  - [ignition-api/8.1](https://github.com/ignition-api/8.1)
-  - [ignition-incendium/incendium](https://github.com/ignition-incendium/incendium)
+  - [ignition-devs/ignition-api-8.1](https://github.com/ignition-devs/ignition-api-8.1)
+  - [ignition-devs/incendium](https://github.com/ignition-devs/incendium)
 - 🌱 I’m continuously learning Python
 - 📖 I blog at <https://cesar.coatl.dev/>
 - 📫 How to reach me: <cesar@coatl.dev>
