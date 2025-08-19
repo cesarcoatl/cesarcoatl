@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   - [ignition-devs/ignition-api-8.1](https://github.com/ignition-devs/ignition-api-8.1)
   - [ignition-devs/ignition-api-8.3](https://github.com/ignition-devs/ignition-api-8.3)
   - [ignition-devs/incendium](https://github.com/ignition-devs/incendium)
-  - all things @coatl-dev and @ignition-devs
+  - all things [@coatl-dev](https://github.com/coatl-dev) and [@ignition-devs](https://github.com/ignition-devs)
 - 🌱 I’m continuously learning Python
 - 📖 I blog at <https://cesar.coatl.dev/>
 - 📫 How to reach me: <cesar@coatl.dev>
