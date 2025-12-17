@@ -8,16 +8,16 @@
 Here are some ideas to get you started:
 -->
 
-- 🤓 I'm César Román
+- 🤓 I'm César Román, Core Developer @coatl-dev and @ignition-devs.
 - 🔭 I’m currently working on:
   - [coatl-dev/actions](https://github.com/coatl-dev/actions)
-  - [coatl-dev/homebrew-coatl-dev](https://github.com/coatl-dev/homebrew-coatl-dev/)
-  - [coatl-dev/scoop-coatl-dev](https://github.com/coatl-dev/scoop-coatl-dev/)
+  - [coatl-dev/homebrew-coatl-dev](https://github.com/coatl-dev/homebrew-coatl-dev)
+  - [coatl-dev/scoop-coatl-dev](https://github.com/coatl-dev/scoop-coatl-dev)
   - [coatl-dev/workflows](https://github.com/coatl-dev/workflows)
-  - [ignition-devs/ignition-api-8.1](https://github.com/ignition-devs/ignition-api-8.1)
-  - [ignition-devs/ignition-api-8.3](https://github.com/ignition-devs/ignition-api-8.3)
+  - [ignition-devs/copier-templates](https://github.com/ignition-devs/copier-teamplates)
+  - [ignition-devs/ignition-api](https://github.com/ignition-devs/ignition-api)
   - [ignition-devs/incendium](https://github.com/ignition-devs/incendium)
-  - all things [@coatl-dev](https://github.com/coatl-dev) and [@ignition-devs](https://github.com/ignition-devs)
+  - [ignition-devs/java-api](https://github.com/ignition-devs/java-api)
 - 🌱 I’m continuously learning Python
 - 📖 I blog at <https://cesar.coatl.dev/>
 - 📫 How to reach me: <cesar@coatl.dev>
