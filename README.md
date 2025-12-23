@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   - [coatl-dev/homebrew-coatl-dev](https://github.com/coatl-dev/homebrew-coatl-dev)
   - [coatl-dev/scoop-coatl-dev](https://github.com/coatl-dev/scoop-coatl-dev)
   - [coatl-dev/workflows](https://github.com/coatl-dev/workflows)
-  - [ignition-devs/copier-templates](https://github.com/ignition-devs/copier-teamplates)
+  - [ignition-devs/copier-templates](https://github.com/ignition-devs/copier-templates)
   - [ignition-devs/ignition-api](https://github.com/ignition-devs/ignition-api)
   - [ignition-devs/incendium](https://github.com/ignition-devs/incendium)
   - [ignition-devs/java-api](https://github.com/ignition-devs/java-api)
