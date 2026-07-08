@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🤓 I'm César Román, Core Developer @coatl-dev and @ignition-devs.
+- 🤓 I'm César Román, Principal Software Engineer @coatl-dev and @ignition-devs.
 - 🔭 I’m currently working on:
   - [coatl-dev/actions](https://github.com/coatl-dev/actions)
   - [coatl-dev/homebrew-coatl-dev](https://github.com/coatl-dev/homebrew-coatl-dev)
